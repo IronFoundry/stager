@@ -44,9 +44,9 @@ GIT
     vcap-concurrency (0.1.0)
 
 GIT
-  remote: https://github.com/cloudfoundry/vcap-staging.git
-  revision: 910bda9fa69504fbe2202edceb8d0b7d1d253fb7
-  ref: 910bda9f
+  remote: https://github.com/IronFoundry/vcap-staging.git
+  revision: 9a351ec002306b0881a3ee94bc43a36c9a47d9a9
+  branch: aspdotnet
   specs:
     vcap_staging (0.1.61)
       nokogiri (>= 1.4.4)
