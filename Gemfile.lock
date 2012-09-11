@@ -45,7 +45,7 @@ GIT
 
 GIT
   remote: https://github.com/IronFoundry/vcap-staging.git
-  revision: 47e8e8b5b7274c17664551b008eef0219ea4cfac
+  revision: 68213a05271305c637cdd036c0f73281589b7da9
   branch: aspdotnet
   specs:
     vcap_staging (0.1.62)
