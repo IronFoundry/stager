@@ -45,8 +45,8 @@ GIT
 
 GIT
   remote: https://github.com/IronFoundry/vcap-staging.git
-  revision: 68213a05271305c637cdd036c0f73281589b7da9
-  branch: aspdotnet
+  revision: e1d44e73f87b7d33bdd18cf2d3b1cb6301059347
+  branch: if-stager-current
   specs:
     vcap_staging (0.1.62)
       nokogiri (>= 1.4.4)
